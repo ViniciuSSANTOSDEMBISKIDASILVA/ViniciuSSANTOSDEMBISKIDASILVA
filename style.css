@@ -1,5 +1,5 @@
-style.css
 *
+
 {
 margin: 0;
 padding: 0;
@@ -61,6 +61,7 @@ padding: 4px 8px;}
 {width: 35%
 text-align: center;
 padding: 16px 0}
+
 .container_botão {
 background-color: var(--botão-azul); 
 border-radius: 5px; 
